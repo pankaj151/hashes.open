@@ -1,0 +1,54 @@
+PIN codes for E4:C3:2A:48:73:E1
+
+47482579 | 24-bit PIN
+25204179 | 28-bit PIN
+93913294 | 32-bit PIN
+42932178 | 36-bit PIN
+80140498 | 40-bit PIN
+45251535 | 44-bit PIN
+91469779 | 48-bit PIN
+47751125 | Reverse byte 24-bit
+24287142 | Reverse byte 32-bit
+82508524 | Reverse byte 48-bit
+19802923 | Reverse nibble 24-bit
+69549144 | Reverse nibble 32-bit
+72593424 | Reverse nibble 48-bit
+89001141 | Reverse bits 24-bit
+84292681 | Reverse bits 32-bit
+05576074 | Reverse bits 48-bit
+58731406 | D-Link PIN
+69915598 | D-Link PIN +1
+44386146 | Belkin PIN
+33791920 | Vodafone EasyBox
+45315800 | Livebox Arcadyan
+30704237 | ASUS PIN
+37470333 | Airocon Realtek
+20289584 | Inv NIC to PIN
+94965148 | NIC * 2
+42447719 | NIC * 3
+29632114 | OUI + NIC
+02439136 | OUI - NIC
+13174514 | OUI ^ NIC
+<empty>  | Empty PIN
+12345670 | Static PIN - Cisco
+20172527 | Static PIN - Broadcom 1
+46264848 | Static PIN - Broadcom 2
+76229909 | Static PIN - Broadcom 3
+62327145 | Static PIN - Broadcom 4
+10864111 | Static PIN - Broadcom 5
+31957199 | Static PIN - Broadcom 6
+30432031 | Static PIN - Airocon 1
+71412252 | Static PIN - Airocon 2
+68175542 | Static PIN - DSL-2740R
+95661469 | Static PIN - Realtek 1
+95719115 | Static PIN - Realtek 2
+48563710 | Static PIN - Realtek 3
+20854836 | Static PIN - Upvel
+43977680 | Static PIN - UR-814AC
+05294176 | Static PIN - UR-825AC
+99956042 | Static PIN - Onlime
+35611530 | Static PIN - Edimax
+67958146 | Static PIN - Thomson
+34259283 | Static PIN - HG532x
+94229882 | Static PIN - H108L
+95755212 | Static PIN - CBN ONO
