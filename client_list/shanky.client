@@ -1,0 +1,17 @@
+phil@phil-HP-Notebook:~/Desktop$ sudo nmap -sn 192.168.0.1/24
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-05-20 10:58 IST
+Nmap scan report for _gateway (192.168.0.1)
+Host is up (0.12s latency).
+MAC Address: 00:5F:67:38:4C:D1 (Unknown)
+Nmap scan report for 192.168.0.101
+Host is up (0.054s latency).
+MAC Address: 08:25:25:BE:F8:22 (Xiaomi Communications)
+Nmap scan report for 192.168.0.103
+Host is up (0.055s latency).
+MAC Address: EC:51:BC:4B:E1:AF (Guangdong Oppo Mobile Telecommunications)
+Nmap scan report for 192.168.0.104
+Host is up (0.14s latency).
+MAC Address: 9C:6B:72:5A:F7:9D (Unknown)
+Nmap scan report for 192.168.0.105
+Host is up (0.066s latency).
+MAC Address: E6:C1:B4:D9:08:26 (Unknown)
